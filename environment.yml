@@ -1,0 +1,4 @@
+name: pyEst
+channels:
+  - defaults
+prefix: C:\Users\casa\.conda\envs\pyEst
