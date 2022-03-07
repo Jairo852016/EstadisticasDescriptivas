@@ -1,0 +1,6 @@
+normalizar datos
+escalamiento lineal(min-max, clipping, zscore ) solo para simetricos
+
+transformacion no lineal
+logaritmos, sigmoides, polimoniales, etc
+
