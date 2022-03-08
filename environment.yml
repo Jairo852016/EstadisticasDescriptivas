@@ -1,4 +1,7 @@
 name: pyEst
 channels:
   - defaults
+dependencies:
+  - pandas
+  - python
 prefix: C:\Users\casa\.conda\envs\pyEst
